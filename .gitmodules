@@ -1,3 +1,6 @@
 [submodule "submoduleSon"]
 	path = submoduleSon
 	url = git@github.com:pzting/submoduleSon.git
+[submodule "submoduleSons"]
+	path = submoduleSons
+	url = https://github.com/pzting/submoduleSons.git
