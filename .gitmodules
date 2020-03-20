@@ -1,0 +1,3 @@
+[submodule "submoduleSon"]
+	path = submoduleSon
+	url = git@github.com:pzting/submoduleSon.git
